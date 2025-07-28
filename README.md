@@ -22,4 +22,12 @@ Berikut hasil akurasi **training** dan **validasi** setelah pelatihan beberapa e
 ---
 
 Untuk library, saya menggunakan:
-![Librarys](requirements.txt)
+````
+tensorflow
+numpy
+scipy
+protobuf
+typing-extensions
+pandas
+matplotlib
+````
